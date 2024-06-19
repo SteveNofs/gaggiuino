@@ -42,7 +42,7 @@ by Steve Nofs
 - Then select FILE/TFT OUTPUT and save to a microSD card to flash the display.
 
 
-## Nextion 4.3" Version History
+## NEXTION 4.3" VERSION HISTORY
 
 #### Ver. 11JUN2024
 - Added verbiage to startup screen to give proper credit to originator of the code this build is based upon.
