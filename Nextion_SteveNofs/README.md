@@ -2,6 +2,7 @@
 ## NEXTION 4.3" DISPLAY, NEXTION 3.5" DISPLAY and NEXTION 2.4"/2.8" DISPLAY HMI FILES
 
 by Steve Nofs
+  - NOTE: Previous GitHub repository was deleted as it was not a proper fork of the original code. This GitHub repository resolved that issue and assures proper credit is given to Zer0-bit/Gaggiuino as the creator of the original source.
   - For those without the Nextion editor: All TFT files have been compiled/uploaded for 'standard' orientation and 'flipped 180' rotation. Let me know if you need a specific display compiled/uploaded.
   - The Nextion 4.3" must be Intelligent Series to run the 4.3" code.
   - This GitHub repository contains my HMI versions for the Nextion display for use on the Gaggiuino mod of the Gaggia Espresso Machine.
@@ -43,6 +44,10 @@ by Steve Nofs
 
 ## Nextion 4.3" Version History
 
+#### Ver. 11JUN2024
+- Added verbiage to startup screen to give proper credit to originator of the code this build is based upon.
+- The startup screen pauses until touched by the user at which time it continues to the Home screen.
+
 #### Ver. 30APR2024
 - Real-time floating values track with Brew graph plotting
 - Tare button on Brew graph resets Weight plot to Zero
@@ -61,6 +66,10 @@ by Steve Nofs
 
 
 ## NEXTION 3.5" VERSION HISTORY #####
+
+#### Ver. 11JUN2024
+- Added verbiage to startup screen to give proper credit to originator of the code this build is based upon.
+- The startup screen pauses until touched by the user at which time it continues to the Home screen.
 
 #### Ver. 24MAR2024:
 
@@ -116,6 +125,10 @@ Save updated values like this:
 - Basic beginning of 2.4 --> 3.5 conversion
 
 ## NEXTION 2.4" and 2.8" VERSION HISTORY ####
+
+#### Ver. 11JUN2024
+- Added verbiage to startup screen to give proper credit to originator of the code this build is based upon.
+- The startup screen pauses until touched by the user at which time it continues to the Home screen.
 
 #### Ver. 24MAR2024:
 
