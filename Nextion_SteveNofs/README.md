@@ -44,6 +44,11 @@ by Steve Nofs
 
 ## NEXTION 4.3" VERSION HISTORY
 
+#### Ver. 26JUN2024
+- Added Profile Name to Brew Graph Screen
+- Toned down bright color of Puck Resistance Graph
+- Suppressed noise on Puck Resistance Graph if Pressure < 1.0
+
 #### Ver. 11JUN2024
 - Added verbiage to startup screen to give proper credit to originator of the code this build is based upon.
 - The startup screen pauses until touched by the user at which time it continues to the Home screen.
