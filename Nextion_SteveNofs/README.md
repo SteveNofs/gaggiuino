@@ -20,7 +20,7 @@ by Steve Nofs
  
 ## Nextion 4.3"
 
-   ![Screenshot Home 43](https://github.com/SteveNofs/Gaggiuino_35/assets/162605333/bda699cc-7143-4f21-a3b8-86ed56de920f)
+   ![Screenshot Home 43](https://github.com/SteveNofs/gaggiuino/blob/release/stm32-blackpill/Nextion_SteveNofs/Screenshots/Screenshot%20Home%2043.png?raw=true)
   
 ## Nextion 3.5"
 
