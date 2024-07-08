@@ -28,7 +28,7 @@ by Steve Nofs
 
 ## Nextion 2.4" and 2.8"
 
-![Screenshot Home 24](<Pics/Screenshot Home-1.png>)
+![Screenshot Home 24](<https://github.com/SteveNofs/gaggiuino/blob/release/stm32-blackpill/Nextion_SteveNofs/Screenshots/Screenshot%20Home%2024.png?raw=true)
 
 
 ## How to use
