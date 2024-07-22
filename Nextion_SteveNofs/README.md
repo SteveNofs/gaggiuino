@@ -44,6 +44,11 @@ by Steve Nofs
 
 ## NEXTION 4.3" VERSION HISTORY
 
+#### Ver. 22JUL2024
+- Added startup screen touch to bypass; will continue to home screen after 5 seconds
+- Added 'stop sign' on brew graph if stop-on-weight is ON
+- Added and moved Ready-to-Steam to top of home screen
+
 #### Ver. 26JUN2024
 - Added Profile Name to Brew Graph Screen
 - Toned down bright color of Puck Resistance Graph
@@ -72,6 +77,11 @@ by Steve Nofs
 
 ## NEXTION 3.5" VERSION HISTORY #####
 
+
+#### Ver. 22JUL2024
+- Added startup screen touch to bypass; will continue to home screen after 5 seconds
+- Added profile name to Brew screen
+- 
 #### Ver. 11JUN2024
 - Added verbiage to startup screen to give proper credit to originator of the code this build is based upon.
 - The startup screen pauses until touched by the user at which time it continues to the Home screen.
@@ -130,6 +140,10 @@ Save updated values like this:
 - Basic beginning of 2.4 --> 3.5 conversion
 
 ## NEXTION 2.4" and 2.8" VERSION HISTORY ####
+
+
+#### Ver. 22JUL2024
+- Added startup screen touch to bypass; will continue to home screen after 5 seconds
 
 #### Ver. 11JUN2024
 - Added verbiage to startup screen to give proper credit to originator of the code this build is based upon.
